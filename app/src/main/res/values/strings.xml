@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MeasureApplication</string>
+    <string name="main_title">はかルンです</string>
+    <string name="measure_button">測る</string>
+    <string name="resultText" />
+    <string name="backButton_1">戻る</string>
+    <string name="barcodeButton">バーコード読み取り</string>
+    <string name="testText">test</string>
+</resources>
